@@ -2,9 +2,9 @@
  
  ## 🚀 About Me
 
-🎓 I am Tapajyoti Bose, a **Data Scientist** with 1+ years of broad-based experience. Proficient in predictive modeling, data
+🎓 I am Phong Pham, a **Data Scientist** with 1+ years of broad-based experience. Proficient in predictive modeling, data
 processing and data mining algorithms, as well as scripting languages, including Python and Java.
-I am also Pursuing my Bachelor in **Computer Science & Engineering** (CSE) at Ho Chi Minh University of Science (HCMUS) and will graduate in end-2022.
+I am also Pursuing my Bachelor in **Computer Science & Engineering** (CSE) at Ho Chi Minh University of Science ([**HCMUS**](https://en.hcmus.edu.vn/)) and will graduate in end-2022.
 
 Thanks for visiting!
 
